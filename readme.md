@@ -34,6 +34,10 @@ is the perfect combination for impulse buying.
 ## Important features already implemented ( Keep updating )
 - Authentication mechanism.
 - Landing page
+- Product static page
+- Checkout static page
+- Tracking static pages
+- Blog static pages
 
 
 ## Important on the to-do list ( Keep updating )
