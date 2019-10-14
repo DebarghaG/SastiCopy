@@ -41,18 +41,21 @@ is the perfect combination for impulse buying.
 
 
 ## Important on the to-do list ( Keep updating )
-- Database schema change around to handle images, product details, timer.
-- Database schema add for blog posts. --> Scratch this - Better idea just keep it static because users aren't changing this
-- Database schema add tracking ability
-- Blog posts --> Ask 2 people to write in html with frontend and all.
-- Showcase (Update with the help of filters? --> Use AJAX) // Use different pages to display different products
-- Search Functionality
-- Cart implementation in database : for every user
+- (resolved)Database schema change around to handle images, product details, timer.
+- (resolved)Database schema add for blog posts. --> Scratch this - Better idea just keep it static because users aren't changing this
+- (resolved)Database schema add tracking ability
+- (resolved)Blog posts --> Ask 2 people to write in html with frontend and all.
+- (resolved)Showcase (Update with the help of filters? --> Use AJAX) // Use different pages to display different products
+- (removed)Search Functionality
+- (resolved)Cart implementation in database : for every user
 - Checkout page - Make dynamic
 - Tracking page
 
-##Changes made since last commit
--
+## Changes made since last commit
+- Backend written for the cart.
+- User just includes reciept and tracking now.
+- Checkout and cart have been migrated to the shop
+- Index does the database query and passes to the template.
 
 ## Issues
 - (Resolved) Product table isn't getting appropriately initialised
