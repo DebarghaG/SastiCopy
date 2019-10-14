@@ -50,3 +50,13 @@ is the perfect combination for impulse buying.
 - Cart implementation in database : for every user
 - Checkout page - Make dynamic
 - Tracking page
+
+##Changes made since last commit
+-
+
+## Issues
+- (Resolved) Product table isn't getting appropriately initialised
+- (Resolved) Checkout page doesn't work
+- (Not Resolved) Frontend needs to render the product details being passed to it in Shop-> Category Page.
+- (Not Resolved) Test that the product renderings work for individual product displays.
+- (Not Resolved) Incomplete Cart
