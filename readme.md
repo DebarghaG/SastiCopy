@@ -30,6 +30,6 @@ SHOR: Streetwear for the modern Indian youth
 
 ## Instructions to run:
 - cd SastiCopy
-- export FLASK_APP=__init__.py
+- export FLASK_APP=<double underscore>init<double underscore>.py
 - flask init-db
 - python -m flask run
