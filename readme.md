@@ -29,7 +29,7 @@ SHOR: Streetwear for the modern Indian youth
 - Contact us page
 
 ## Instructions to run:
-cd SastiCopy
-export FLASK_APP=__init__.py
-flask init-db
-python -m flask run
+- cd SastiCopy
+- export FLASK_APP=__init__.py
+- flask init-db
+- python -m flask run
